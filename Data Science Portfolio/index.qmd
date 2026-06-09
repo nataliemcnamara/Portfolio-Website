@@ -1,0 +1,9 @@
+---
+title: "Natalie's Data Science Portfolio Test"
+---
+
+![](Profile_Photo.jpg){width=250px}
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

@@ -1,0 +1,18 @@
+/* css styles */
+html,
+body {
+  background: transparent !important;
+}
+
+#vanta-bg {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+}
+
+.quarto-body,
+.quarto-page,
+.main-content {
+  position: relative;
+  z-index: 1;
+}

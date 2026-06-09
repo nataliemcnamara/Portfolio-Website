@@ -1,0 +1,4 @@
+- source: project
+  posit-connect-cloud:
+    - id: 019eae26-75f0-a9ef-85e1-1b48f1c42d30
+      url: https://connect.posit.cloud/nataliemcnamara/content/019eae26-75f0-a9ef-85e1-1b48f1c42d30
