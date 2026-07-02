@@ -1,5 +1,5 @@
 ---
-title: "Natalie's Data Science Portfolio Test"
+title: "Natalie's Data Science Portfolio"
 ---
 
 ![](Profile_Photo.jpg){width=250px}
