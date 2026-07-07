@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-About this site
+This is a site all about my data science portfolio.
