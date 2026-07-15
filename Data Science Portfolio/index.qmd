@@ -1,4 +1,4 @@
 ---
 title: "Natalie's Data Science Portfolio"
 ---
-![Profile_Photo](images/Profile_Photo.jpg)
+![Profile_Photo](images/Profile_Photo.jpg){class="profile-photo"}
